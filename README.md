@@ -1,2 +1,4 @@
 # python_Titanic_
+
+python2环境
 python_Titanic_prediction_live_or_death
